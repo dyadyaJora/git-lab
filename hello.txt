@@ -1,4 +1,4 @@
 print("Hello wold");
 print("!");
 lalala;
-hello;
+hello2;
